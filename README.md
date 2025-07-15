@@ -18,9 +18,6 @@ First of all,Thanks alot for visiting my page.I am **Noobplayer7 from Bangalore,
 <a href="https://github.com/Noobplayer77777">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UCdiWnTqO6xFEkE0THBgx2dg">
-<img alt="YouTube" src="https://img.shields.io/badge/Noobplayer7-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
 <a href="https://discord.gg/SdrYQ5Ht8B">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
