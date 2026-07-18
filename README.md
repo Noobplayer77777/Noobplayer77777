@@ -5,10 +5,10 @@
 First of all,Thanks alot for visiting my page.I am **Noobplayer7 from Bangalore,India** .I am a Uni code-addict student.I like making projects with an elegant and easy to use UI so anyone can easily use them.
 
 <ul>
-<li> 🔧 Current Project: None </li>
+<li> 🔧 Current Project: Stadium Copilot AI </li>
 <li> ❤ Preference: Python Projects </li>
 <li> 😴 Dream Project: A search engine </li>
-<li> 💻 Language I am Learning: React </li>
+<li> 💻 Language I am Learning: Agentic AI </li>
 </ul>
 <img src="code2.gif">
 
