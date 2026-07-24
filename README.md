@@ -2,7 +2,7 @@
 
 # Hi, I'm Noobplayer7 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=650&lines=Full-Stack+%2B+AI+Developer;Building+for+FIFA+World+Cup+2026+Hackathon;Security-curious+%7C+Aspiring+WhiteHat;Currently+learning+Agentic+AI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=650&lines=Full-Stack+%2B+AI+Developer;Building+for+Prompt+Wars+2026+Hackathon;Security-curious+%7C+Aspiring+WhiteHat;Currently+learning+Agentic+AI" alt="Typing animation" />
 
 Student developer from Bangalore, India — went from modding Minecraft servers to shipping full-stack AI products.
 
@@ -19,7 +19,7 @@ Student developer from Bangalore, India — went from modding Minecraft servers 
 
 ## About Me
 
-Uni student who likes building things that actually feel good to use. Started out writing Java Minecraft plugins, and have since moved into full-stack web apps and applied AI — most recently an operational intelligence platform built for the **FIFA World Cup 2026 GenAI Hackathon**.
+Uni student who likes building things that actually feel good to use. Started out writing Java Minecraft plugins, and have since moved into full-stack web apps and applied AI — most recently an operational intelligence platform built for the **Promptwars 2026 GenAI Hackathon**.
 
 - 🔧 **Building:** Stadium Copilot AI
 - ❤️ **Preference:** Python & full-stack projects
