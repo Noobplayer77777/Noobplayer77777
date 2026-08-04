@@ -8,7 +8,7 @@ Uni student from Bangalore, India. Went from modding Minecraft servers to shippi
 
 <a href="https://stadium-copilot-ai.vercel.app"><img src="https://img.shields.io/badge/🔴_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
 <a href="https://noobplayer77777.github.io/"><img src="https://img.shields.io/badge/🚩_CTF_Challenge-6e1b1b?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF"/></a>
-<a href="https://noobplayer7.vercel.app/"><img src="https://img.shields.io/badge/🔗_Links-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Links"/></a>
+<a href="https://portfolio1-virid-pi.vercel.app/"><img src="https://img.shields.io/badge/🔗_Links-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Links"/></a>
 
 [![Followers](https://img.shields.io/github/followers/Noobplayer77777?label=Followers&style=flat-square&color=A371F7)](https://github.com/Noobplayer77777?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Noobplayer77777?label=Stars&style=flat-square&color=A371F7&affiliations=OWNER)](https://github.com/Noobplayer77777)
