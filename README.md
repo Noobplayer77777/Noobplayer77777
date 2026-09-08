@@ -2,11 +2,12 @@
 
 # Noobplayer7
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=680&lines=Full-Stack+%2B+AI+Developer;Built+Stadium+Copilot+for+FIFA+WC+2026+Hackathon;Security-curious+%7C+Aspiring+WhiteHat;Next%3A+C%2B%2B+%2B+Agentic+AI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=680&lines=Full-Stack+%2B+AI+Developer;Built+SponsorFlow+CRM+for+HackClub+Finance;Security-curious+%7C+Aspiring+WhiteHat;Next%3A+C%2B%2B+%2B+Agentic+AI" alt="Typing animation" />
 
 Uni student from Bangalore, India. Went from modding Minecraft servers to shipping full-stack AI at hackathon scale.
 
-<a href="https://stadium-copilot-ai.vercel.app"><img src="https://img.shields.io/badge/🔴_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+<a href="https://sponsor-flow-theta.vercel.app"><img src="https://img.shields.io/badge/🔴_SponsorFlow-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="SponsorFlow"/></a>
+<a href="https://stadium-copilot-ai.vercel.app"><img src="https://img.shields.io/badge/🏟️_Stadium_Copilot-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Stadium Copilot"/></a>
 <a href="https://noobplayer77777.github.io/"><img src="https://img.shields.io/badge/🚩_CTF_Challenge-6e1b1b?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF"/></a>
 <a href="https://portfolio1-virid-pi.vercel.app/"><img src="https://img.shields.io/badge/🔗_Links-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Links"/></a>
 
@@ -21,7 +22,7 @@ Uni student from Bangalore, India. Went from modding Minecraft servers to shippi
 
 ## About Me
 
-- 🔧 **Currently building:** [Stadium Copilot AI](https://stadium-copilot-ai.vercel.app) — an operational intelligence platform for FIFA World Cup 2026 stadiums, built at the **Promptwars 2026 GenAI Hackathon**
+- 🔧 **Currently building:** [SponsorFlow](https://sponsor-flow-theta.vercel.app) — an AI-powered sponsorship CRM for hackathon finance teams, with collision prevention, Gmail integration, and Gemini-generated outreach drafts
 - 💻 **Sharpening:** C++ and Agentic AI systems
 - 🎯 **Goal:** WhiteHat security — [PhishGuard AI](https://phishguard-ai-amber.vercel.app) is the first step
 - 😴 **Dream project:** A search engine, from crawler to ranking
@@ -31,7 +32,7 @@ Uni student from Bangalore, India. Went from modding Minecraft servers to shippi
 <summary>📜 <b>How it started</b></summary>
 <br>
 
-Java, Gradle, and a lot of Minecraft. A custom client for 2b2t, server plugins that sometimes didn't even work (and shipped anyway), a Discord moderation bot with more commands than users. Same GitHub account, five years later: an AI operational platform built for 80,000-fan FIFA World Cup stadiums. Still the same instinct — build the thing, ship it, fix it.
+Java, Gradle, and a lot of Minecraft. A custom client for 2b2t, server plugins that sometimes didn't even work (and shipped anyway), a Discord moderation bot with more commands than users. Same GitHub account, five years later: an AI-powered CRM for hackathon finance teams and an operational platform built for 80,000-fan FIFA World Cup stadiums. Still the same instinct — build the thing, ship it, fix it.
 
 </details>
 
@@ -41,6 +42,7 @@ Java, Gradle, and a lot of Minecraft. A custom client for 2b2t, server plugins t
 
 | Project | What it does | Stack | Status |
 |--------|--------------|-------|--------|
+| [**SponsorFlow**](https://github.com/Noobplayer77777/SponsorFlow) | AI-powered sponsorship CRM for hackathon finance teams — collision prevention, role-based access, Gemini-generated outreach emails, Gmail API sending | Next.js · Prisma · Neon · NextAuth · Gemini AI | 🔴 [Live](https://sponsor-flow-theta.vercel.app) |
 | [**stadium-copilot-ai**](https://github.com/Noobplayer77777/stadium-copilot-ai) | AI operational intelligence for FIFA WC 2026 stadiums — fan dashboards, organizer command center, real-time crowd monitoring, incident management | Next.js · FastAPI · Claude API · PostgreSQL | 🔴 [Live](https://stadium-copilot-ai.vercel.app) |
 | [**phishguard-ai**](https://github.com/Noobplayer77777/phishguard-ai) | AI-powered phishing detection — first step toward the WhiteHat goal | Python · Flask | 🔴 [Live](https://phishguard-ai-amber.vercel.app) |
 | [**campus-pulse**](https://github.com/Noobplayer77777/campus-pulse) | Campus event and community platform | Firebase · React | 🟡 Dev |
@@ -109,6 +111,8 @@ Want the real thing? → **[Whodunit.exe](https://noobplayer77777.github.io/)** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -116,6 +120,7 @@ Want the real thing? → **[Whodunit.exe](https://noobplayer77777.github.io/)** 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -123,6 +128,7 @@ Want the real thing? → **[Whodunit.exe](https://noobplayer77777.github.io/)** 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -132,6 +138,7 @@ Want the real thing? → **[Whodunit.exe](https://noobplayer77777.github.io/)** 
 
 **AI / CV**
 ![Claude API](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 **Cloud & DevOps**
@@ -176,7 +183,7 @@ Want the real thing? → **[Whodunit.exe](https://noobplayer77777.github.io/)** 
 - **Agentic AI** — systems that take actions, not just generate text
 - **Applied security** — PhishGuard AI as first step toward the WhiteHat goal
 - **C++** — going lower-level after years in Python and JS
-- **Next.js + FastAPI** — the stack that built Stadium Copilot
+- **Mobile dev** — Kotlin (Android) and Flutter/Dart
 
 ---
 
