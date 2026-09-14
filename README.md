@@ -222,7 +222,6 @@ Deployed a personal links page from scratch before ever creating an actual Linkt
 [![GitHub](https://img.shields.io/badge/GitHub-Noobplayer77777-181717?style=for-the-badge&logo=github)](https://github.com/Noobplayer77777)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SdrYQ5Ht8B)
 [![Links](https://img.shields.io/badge/Links-noobplayer7.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://noobplayer7.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
 
 </div>
 
